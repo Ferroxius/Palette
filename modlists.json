@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Untitled Skyrim Modlist",
+    "description": "On an ordinary day like no other, John Skyrim decided to mix his skooma with honningbrew mead, and he was never the same again",
+    "author": "Ferroxius",
+    "maintainers": [
+      "github/Ferroxius"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "lore friendly",
+      "humorous",
+      "performance friendly"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Untitled.png",
+      "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Little Bit Of Everything.wabbajack_ab59008b-e4fc-4b74-bd71-4adacde9344b",
+      "machineURL": "Palette",
+      "discordURL": "https://discord.gg/aetherius-modding"
+    },
+    "download_metadata": {
+      "Hash": "Jshk4OiZjZI=",
+      "Size": 140096360,
+      "NumberOfArchives": 841,
+      "SizeOfArchives": 83863702996,
+      "NumberOfInstalledFiles": 187015,
+      "SizeOfInstalledFiles": 99389646361
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-02T11:50:45.5777715Z",
+    "repositoryName": ""
+  }
+]
