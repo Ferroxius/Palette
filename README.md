@@ -20,9 +20,10 @@ Alpyne is a modlist aimed at providing the experience of an epic dark fantasy in
 Things to expect of Alpyne:
 ### Visuals
 - Texture and mesh baselines from ANVIL
-- Picta Realis covering the weather and ENB
+- Azurite Weathers and Dawnfire ENB
 - Environmental additions courtesy of Northern Roads, Unmarked Locations, Northern Scenery and Civil War Battlefields
-- Happy Little Trees and Northern Grass covering most flora
+- Happy Little Trees and Fantastic Grass covering most flora
+- COTN, Redbag and other city overhauls
 
 ### Gameplay
 - Utilisation of Skyrim Redone for reworked vanilla systems
@@ -31,7 +32,7 @@ Things to expect of Alpyne:
 
 ### Content
 - Expanded questlines courtesy of Jayserpa's series
-- New quests such as VIGILANT
+- New quests such as SIRENROOT
 - New worldspaces such as Wyrmstooth
 - New armour and weapons from Sentinel and other mods
 - New custom followers as well as Interesting NPCs
@@ -46,7 +47,7 @@ Things not to expect of Alpyne:
 ### Gameplay
 - Modern Combat Overhaul or any mods introducing new combat mechanics. I don't think things like attack commitment suit Skyrim
 - Hardcore mods. Things like survival mode will be supported but the list is not built around mods such as Frostfall
-- Mechanics such as religions. Not my preference
+- New mechanics such as religions. Not my preference
 
 ### Content
 - Expansions to existing followers such as Serana Dialogue Addon. Don't really like mods such as those
