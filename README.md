@@ -15,6 +15,8 @@ Notable elements of LBOE include:
 
 
 # Alpyne
+[Installation link](https://github.com/Ferroxius/Palette/blob/main/Alpyne_Installation.md)
+
 Alpyne is a modlist aimed at providing the experience of an epic dark fantasy in presentation, coupled with a number of new additions and a gameplay loop revolving around responsive and semi-realistic gameplay systems
 
 Things to expect of Alpyne:
