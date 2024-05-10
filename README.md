@@ -56,3 +56,7 @@ Things not to expect of Alpyne:
 ### Content
 - Expansions to existing followers such as Serana Dialogue Addon. Don't really like mods such as those
 - Anything remotely explicit or sexual in theme. Just no
+
+
+# Ko-fi
+If you would like to support my work, [here is a link to my ko-fi](https://ko-fi.com/ferroxius)
