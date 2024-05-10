@@ -60,3 +60,12 @@ Things not to expect of Alpyne:
 
 # Ko-fi
 If you would like to support my work, [here is a link to my ko-fi](https://ko-fi.com/ferroxius)
+
+# Credits
+The following have been important in one way or another to the development of my lists, giving me feedback or advice when needed:
+- Althro
+- Styyx
+- Chef
+- Ouroboros
+- Syam
+- Katiefraggle
