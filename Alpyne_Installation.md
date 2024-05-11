@@ -88,7 +88,7 @@ Download [Wabbajack](https://www.wabbajack.org/)
 - For reference my wabbajack location is C:\Games\Modding\Wabbajack
 - Double click wabbajack.exe and let the program update itself if needed
 
-**Downloading and Installing LBOE**
+**Downloading and Installing Alpyne**
 Go to the releases section on the right side of this github page. Find the latest release of Alpyne and download its wabbajack file. Open it and it will present you with the installation window.
 In the installation window, you will be asked to define the locations of two folders:
 - Installation Location which is where Alpyne will be installed. Choose an easy to access folder such as C:\Games\ that is outside UAC protected folders (Program Files, Documents, etc).
