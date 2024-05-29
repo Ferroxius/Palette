@@ -1,5 +1,5 @@
 # Alpyne
-![Alpyne2](https://github.com/Ferroxius/Palette/assets/88400328/3ef9c37b-b3d8-4853-808f-545124d36d74)
+![Alpyne](https://github.com/Ferroxius/Palette/assets/88400328/aac300a8-2174-47ec-a23b-12824006ea31)
 
 ## Contents
 - [System Requirements](#system-requirements)
@@ -63,7 +63,7 @@ I don't own Skyrim on GOG so I am unable to test and properly support it
 - Latest version of windows 10
 - A nexus mods account (Premium is recommended by Wabbajack to automate installation but you can use a free one)
 - Latest NVIDIA/AMD Drivers
-- 190GB of storage space available in total approximately. Some extra headroom is recommended for Wabbajack so I would recommend at least 200GB
+- 215GB of storage space available in total approximately. Some extra headroom is recommended for Wabbajack so I would recommend at least 200GB
 
 **MO2 Requirements**
 - [Latest Microsoft Visual C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
