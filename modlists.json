@@ -22,7 +22,7 @@
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Untitled.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
       "download": "https://authored-files.wabbajack.org/USM.wabbajack_e1a52643-571b-443a-9ade-a2624fc0f6c2",
-      "machineURL": "Palette",
+      "machineURL": "Untitled",
       "discordURL": "https://discord.gg/aetherius-modding"
     },
     "download_metadata": {
@@ -36,6 +36,45 @@
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-02-02T11:50:45.5777715Z",
+    "repositoryName": ""
+  },
+{
+    "title": "Alpyne",
+    "description": "Explore, fight, affect. A dark fantasy awaits the itinerant",
+    "author": "Ferroxius",
+    "maintainers": [
+      "github/Ferroxius"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Dark Fantasy",
+      "Skyrim Redone",
+      "New Content"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
+      "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_26d52fe9-1dd2-4288-a1d3-1c575e5d7f08",
+      "machineURL": "Alpyne",
+      "discordURL": "https://discord.gg/aetherius-modding"
+    },
+    "download_metadata": {
+      "Hash": "kxBKKggFVbw=",
+      "Size":69891029,
+      "NumberOfArchives":1293,
+      "SizeOfArchives":109918124811,
+      "NumberOfInstalledFiles":131390,
+      "SizeOfInstalledFiles":136298729158
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-01-26T20:59:30.4292924Z",
     "repositoryName": ""
   }
 ]
