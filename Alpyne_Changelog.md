@@ -1,3 +1,30 @@
+# 1.1.2
+## Added
+- Dismembering Framework
+- Green Water Cubemap Fix
+- DynDOLOD DLL NG
+- Vibrant Weapons - No Shock Effect (This makes shock based weapons less strobe-like for those sensitive to flashing lights)
+- EVG Animated Traversal
+- Dynamic Climbable Ladder Doors
+- Ascend - Peaks of Skyrim
+- Fast Travel Cost
+
+## Updated
+- Kauz ENB and its dependencies to latest version
+- DynDOLOD and DynDOLOD Resources to latest version
+- Wyrmstooth to latest version
+- Sirenroot to utilise EVGAT
+- Skyrim AE Redone to latest version
+- Dark Brotherhood Armor SE - Fixed to work correctly
+
+## Removed
+- All of 4thUnknown and MihailMods' creature mods. This is due to general instability issues associated with them
+- Skyrim Wayshrines Immersive Fast Travel (SWIFT). Generally dissatisfied with the mod over others
+- NPC Names Distributor and all mods dependant on it. Causes a bug with TrueHUD where enemy names do not appear
+- eFPS. More trouble than it is worth
+- Skyrim Landscape and Water Fixes. More trouble than it is worth
+- Crouch Sliding. Generally too janky and unimmersive
+
 # 1.1.0
 ## Added
 - Retextures of all major cities to no longer be solely Skyland textures. Also sees the introduction of architecture parallax
