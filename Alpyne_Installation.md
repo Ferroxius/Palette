@@ -1,5 +1,5 @@
 # Alpyne
-![Alpyne](https://github.com/Ferroxius/Palette/assets/88400328/aac300a8-2174-47ec-a23b-12824006ea31)
+![Alpyne](https://github.com/user-attachments/assets/52dbccf0-45d5-4b74-89be-db2fee12c49d)
 
 ## Contents
 - [System Requirements](#system-requirements)
