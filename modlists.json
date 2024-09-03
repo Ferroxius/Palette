@@ -38,7 +38,7 @@
     "dateUpdated": "2024-02-02T11:50:45.5777715Z",
     "repositoryName": ""
   },
-{
+  {
     "title": "Alpyne",
     "description": "Explore, fight, affect. A dark fantasy awaits the itinerant",
     "author": "Ferroxius",
@@ -60,21 +60,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_43c18899-ce21-4cdb-aa51-79db4a3a0676",
+      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_d0892436-3995-429b-8940-b9095fde482c",
       "machineURL": "Alpyne",
       "discordURL": "https://discord.gg/aetherius-modding"
     },
     "download_metadata": {
-      "Hash": "pDlCtg7erc0=",
-      "Size":238403568,
-      "NumberOfArchives":1388,
-      "SizeOfArchives":114794444795,
-      "NumberOfInstalledFiles":125219,
-      "SizeOfInstalledFiles":125729741602
+      "Hash": "moRZnRPc0bQ=",
+      "Size": 10659834,
+      "NumberOfArchives": 1178,
+      "SizeOfArchives": 86169824032,
+      "NumberOfInstalledFiles": 89923,
+      "SizeOfInstalledFiles": 101400075620
     },
-    "version": "1.1.2",
+    "version": "1.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-26T20:59:30.4292924Z",
+    "dateUpdated": "2024-09-03T22:11:49.6356513Z",
     "repositoryName": ""
   }
 ]
