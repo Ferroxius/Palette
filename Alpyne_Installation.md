@@ -105,7 +105,7 @@ If Wabbajack continues to have trouble then I'd suggest joining Aetherius moddin
 ## Post-Installation
 Open up Mod Organizer 2. Everything should be installed and generally shouldnt require any tweaking unless you plan on modifying the setup
 
-To start the game select skse in the top right drop down menu and click Run. Skyrim should launch not too long afterwards
+To start the game select Alpyne in the top right drop down menu and click Run. Skyrim should launch not too long afterwards
 
 ## Playing and MCM configuration
 When you start a new game you will be presented with an option to skip the intro. This is Optional Quick Start. If you choose No the vanilla intro sequence will play out as normal, if you choose Yes you will spawn at the exit to Helgen Keep and will continue from there. Note that the vanilla intro will always be a bit janky so play through it at your own risk of it breaking.
