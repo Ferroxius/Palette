@@ -60,21 +60,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_f60fa8c1-5c12-4f15-9d03-9ca56b604635",
+      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_049ea90e-4e5f-4773-8564-9cb643628d5b",
       "machineURL": "Alpyne",
       "discordURL": "https://discord.gg/aetherius-modding"
     },
     "download_metadata": {
-      "Hash": "i4ySy9+EbXE=",
-      "Size": 10168098,
+      "Hash": "YlReHgtNQsU=",
+      "Size": 10165092,
       "NumberOfArchives": 1175,
-      "SizeOfArchives": 85924197783,
+      "SizeOfArchives": 85924197722,
       "NumberOfInstalledFiles": 89569,
       "SizeOfInstalledFiles": 101236059832
     },
     "version": "1.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-04T17:34:27.9051575Z",
+    "dateUpdated": "2024-09-04T18:50:04.3624031Z",
     "repositoryName": ""
   }
 ]
