@@ -1,30 +1,30 @@
 # 1.2.1
 ## Added
-Warmonger Armory - To fix a problem with vigilants
-KG Animations - One Handers and Dual Wield
-Unqeuip Quiver NG
-JS Badges of Office
-Tonal Arsenal
-Keyword Compatibility Framework
-Better Forgotten Vale Portal Textures
-Sensible Oculory Solution
-Local Map Upgrade
-Diverse Tanning Racks
-Skytactics
-Stuff of Shadows
-Vanaheimr - Ice
-Vanilla Complex Parallax - To fix purple textures in some locations
-Majestic Greybeards
+- Warmonger Armory - To fix a problem with vigilants
+- KG Animations - One Handers and Dual Wield
+- Unqeuip Quiver NG
+- JS Badges of Office
+- Tonal Arsenal
+- Keyword Compatibility Framework
+- Better Forgotten Vale Portal Textures
+- Sensible Oculory Solution
+- Local Map Upgrade
+- Diverse Tanning Racks
+- Skytactics
+- Stuff of Shadows
+- Vanaheimr - Ice
+- Vanilla Complex Parallax - To fix purple textures in some locations
+- Majestic Greybeards
 
 ## Updated
-Dismembering Framework
-Various Xavbio Armor mods
-Various Vanaheimr landscape mods
+- Dismembering Framework
+- Various Xavbio Armor mods
+- Various Vanaheimr landscape mods
 
 ## Removed
-Glacierslab - Replaced with Vanaheimr Ice
-Man Those Borders Reborn - Caused too many landscape problems
-Creation Kit from Game Root - Caused installation issues. If you wish to use CK then you will need to install it for yourself
+- Glacierslab - Replaced with Vanaheimr Ice
+- Man Those Borders Reborn - Caused too many landscape problems
+- Creation Kit from Game Root - Caused installation issues. If you wish to use CK then you will need to install it for yourself
 
 
 # 1.1.2
