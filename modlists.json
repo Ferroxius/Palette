@@ -59,7 +59,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
-      "readme": "https://sites.google.com/view/alpyne-skyrim/cover/installing-alpyne",
+      "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/blob/main/Alpyne_Installation.md",
       "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_9e016133-7cba-4cc3-a731-457fe064a7e5",
       "machineURL": "Alpyne",
       "discordURL": "https://discord.gg/aetherius-modding"
