@@ -59,7 +59,6 @@ I don't own Skyrim on GOG so I am unable to test and properly support it
 ## Pre-Installation
 **Base Requirements**
 - Skyrim Anniversary Edition + DLC Upgrade on Steam (Clean reinstall required)
-- Creation Kit on Steam
 - Latest version of windows 10
 - A nexus mods account (Premium is recommended by Wabbajack to automate installation but you can use a free one)
 - Latest NVIDIA/AMD Drivers
@@ -75,11 +74,6 @@ I don't own Skyrim on GOG so I am unable to test and properly support it
 
 **Set the game language to English**
 This is a temporary measure as Wabbajack requires the english version of the game to work correctly. You can revert the language back after installation
-
-**Setting up Creation Kit**
-- When installing Creation Kit ensure it is installed inside Skyrim Special Edition's directory (Same folder as its .exe file)
-- Run Creation Kit at least once. On starting up it'll ask you to extract scripts, click yes and wait for that to finish
-- Once Creation Kit has finished loading, exit.
 
 ## Wabbajack Installation
 **Installing Wabbajack**
@@ -106,9 +100,11 @@ If Wabbajack continues to have trouble then I'd suggest joining Aetherius moddin
 Open up Mod Organizer 2. Everything should be installed and generally shouldnt require any tweaking unless you plan on modifying the setup
 
 To start the game select Alpyne in the top right drop down menu and click Run. Skyrim should launch not too long afterwards
+- NOTE: Alpyne is not built on the latest version of Mod Organizer 2. The program has the option to update in the menu but it is not recommended to do this as the list could be broken after updating.
 
 ## Playing and MCM configuration
 When you start a new game you will be presented with an option to skip the intro. This is Optional Quick Start. If you choose No the vanilla intro sequence will play out as normal, if you choose Yes you will spawn at the exit to Helgen Keep and will continue from there. Note that the vanilla intro will always be a bit janky so play through it at your own risk of it breaking.
+- If you choose to skip the intro, a chest can be found after exiting Helgen cave that gives you a number of scrolls to use as a starting "class". Choose one, multiple or none if you wish and use it to acquire some items and buffs
 
 In Mod Configuration there are a few available to use. The list doesn't currently follow any specific settings so configure the mods however you wish
 
