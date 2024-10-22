@@ -46,8 +46,9 @@
       "github/Ferroxius"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Dark Fantasy",
       "Skyrim Redone",
       "New Content"
