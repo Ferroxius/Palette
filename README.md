@@ -23,23 +23,24 @@ Alpyne is a modlist aimed at providing the experience of an epic dark fantasy in
 
 Things to expect of Alpyne:
 ### Visuals
-- Texture and mesh baselines from ANVIL
-- Azurite Weathers and Dawnfire ENB
-- Environmental additions courtesy of Northern Roads, Unmarked Locations, Northern Scenery and Civil War Battlefields
-- Happy Little Trees and Fantastic Grass covering most flora
-- COTN, Redbag and other city overhauls
+The visuals aim to be impressive and dramatic without being a major performance hitter. Alpyne is not aiming for a "Next-Gen" experience on a technical level. 
+- Texture overhaul series from various authors such as AgentW and Clemus
+- NAT 3 Weathers and Kauz ENB
+- Environmental additions courtesy of mods such as Unmarked Locations and Northern Scenery
+- Fabled Forests and Veydosebrom covering most flora
+- Major city overhauls. Each hold capital and minor settlement has a unique identity in its architecture
 
 ### Gameplay
 - Utilisation of Skyrim Redone for reworked vanilla systems
 - Complementary mods such as magelock and mortal enemies
 - Skyrim Realistic Conquering to facilitate world feedback to the player
+- Some restrictions on movement to encourage utilisation of mechanics such as horses
 
 ### Content
 - Expanded questlines courtesy of Jayserpa's series
 - New quests such as SIRENROOT
-- New worldspaces such as Wyrmstooth
-- New armour and weapons from Sentinel and other mods
-- New custom followers as well as Interesting NPCs
+- New armour and weapons from authors such as Pulcharmsolis and 4thUnknown
+- New custom followers
 
 
 
@@ -47,15 +48,17 @@ Things not to expect of Alpyne:
 ### Visuals
 - Major settlement expansions. This is to keep performance steady
 - Major NPC Overhauls. The NPCs are kept in line with the vanilla aesthetic
+- Anything particularly "High-poly". Technical quality is kept to the same poly count and texture resolution of base Skyrim but utilising fixed or generally superior options
 
 ### Gameplay
-- Modern Combat Overhaul or any mods introducing new combat mechanics. I don't think things like attack commitment suit Skyrim
+- Modern Combat Overhaul or any mods introducing new combat mechanics. I don't believe things like attack commitment suit Skyrim
 - Hardcore mods. Things like survival mode will be supported but the list is not built around mods such as Frostfall
 - New mechanics such as religions. Not my preference
 
 ### Content
 - Expansions to existing followers such as Serana Dialogue Addon. Don't really like mods such as those
-- Anything remotely explicit or sexual in theme. Just no
+- No new Worldspaces. This is to expand on the strength and quality of the Skyrim worldspace rather than branch outwards
+- Anything explicit or overtly sexual in theme. Implication is present in some mods but otherwise, there is no nudity or explicit sexual encounters
 
 
 # Ko-fi
