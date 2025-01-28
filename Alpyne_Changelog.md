@@ -1,3 +1,61 @@
+1.4.0
+## Added
+- Literally Unplayable
+- SPID Elite Wolf Armor
+- More to Say
+- Skyforge Complete
+- Use those blankets
+- Ambient Bird Sounds Expanded
+- The Divine Question
+- Bark and Bite
+- ENB lights for effects shaders
+- ENB Anti-aliasing
+- Flat World Map Framework
+- Traditional Paper Map
+- Reimagined Mountain Flowers
+- JJerem's Orc Stronghold series
+- JJerem's Orc Exiles
+- HAG - Occult Orphan Rock
+- Skyrim HD Reworked Horses
+- Horse Riding Improvements
+- Pandora Behaviour Engine Plus
+- Widescreen Scale Removed
+- Immersive Khajiit Caravan Mules
+- Happy Little Trees
+- Evil Dead Trees
+- Gonzeh - Stonehills Re Reimagined
+- Immersive College NPCs
+- Crackling fire
+- Remove NAT III Mist particles
+- Volumetric Mists
+- Switch Camera During Dialogue
+
+
+
+## Updated
+- Skyrim AE Redone
+- Steel Armors and Weapons Retexture
+- Natural Waterfalls
+- Vanaheimr Landscapes
+- Kauz ENB + All requirements
+- Song of the Green
+- Dismembering Framework
+- Embers XD
+- USSEP + USMP
+
+
+## Removed
+- Trade and Barter
+- Fast Travel from Horse
+- Fast Travel Costs
+- SC Horses
+- Nemesis Unlimited Behaviour Engine
+- Panda's Tweaked Pineforest
+- Fabled Forests
+- Stonehills
+- Bulwark
+
+
 # 1.2.1
 ## Added
 - Warmonger Armory - To fix a problem with vigilants
