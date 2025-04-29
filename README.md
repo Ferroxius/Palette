@@ -27,12 +27,12 @@ The visuals aim to be impressive and dramatic without being a major performance 
 - Texture overhaul series from various authors such as AgentW and Clemus
 - NAT 3 Weathers and Kauz ENB
 - Environmental additions courtesy of mods such as Unmarked Locations and Northern Scenery
-- Fabled Forests and Veydosebrom covering most flora
+- Happy Little Trees and Veydosebrom covering most flora
 - Major city overhauls. Each hold capital and minor settlement has a unique identity in its architecture
 
 ### Gameplay
 - Utilisation of Skyrim Redone for reworked vanilla systems
-- Complementary mods such as magelock and mortal enemies
+- Complementary mods such as mortal enemies
 - Skyrim Realistic Conquering to facilitate world feedback to the player
 - Some restrictions on movement to encourage utilisation of mechanics such as horses
 
@@ -58,7 +58,7 @@ Things not to expect of Alpyne:
 ### Content
 - Expansions to existing followers such as Serana Dialogue Addon. Don't really like mods such as those
 - No new Worldspaces. This is to expand on the strength and quality of the Skyrim worldspace rather than branch outwards
-- Anything explicit or overtly sexual in theme. Implication is present in some mods but otherwise, there is no nudity or explicit sexual encounters
+- Anything explicit or overtly NSFW. Implication is present in some mods but otherwise, there is no nudity or explicit sexual encounters
 
 
 # Ko-fi
