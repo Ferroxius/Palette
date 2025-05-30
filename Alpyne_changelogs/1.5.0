@@ -1,0 +1,112 @@
+Alpyne v1.5.0 is due to arrive tomorrow (May 31st). With it comes about 3+ months worth of mod updates as well as a slew of new mods added to the list. In preparation for the release, check out the major changes below
+
+### Technical Details
+Mod count of v1.4.0 - 1260
+Mod count of v1.5.0 - 1290
+
+Total installation size of 1.4.0 - 204GB
+Total installation size of 1.5.0 - 206GB
+
+
+# Added
+## Gameplay
+- Simply Rest Anywhere
+- Casting Bar
+- Oxygen Meter DDDM Patch
+- Trua - Minimalistic Faiths of Skyrim
+- 3rd Person Camera Stagger Remover
+- Thieves Guild Requirements + Reformation
+- Cover Your Head
+
+## Content
+- Thalmor Ceykynd Armors
+- Petroglyph's of Skyrim
+- Ancient Imperial Armor
+- Xelzaz
+- Improved Follower Dialogue - Lydia
+- Darenii's Spell Packs
+
+## Visuals
+- Whispers of the daedric princes
+- Underwater Loop and Swimming Sounds
+- Hunted Shipwreaks
+- Azura's Audio Array
+- Sanguinum - Vampire Magic SFX
+- Moments of Silence
+
+- Better Dynamic Ash
+- ParallaxGen
+- Terrain Helper
+- Alpha Blood Blending Bug Fix
+- ENB Brows Fix
+
+- Aspen's Ablaze
+- Grass Cache and Grass LODs
+
+- The Great City of Dragon Bridge
+- Icy Windhelm
+- Latest HAG Series mods
+- Latest Nimwraith mods
+
+- Unmarked Locations Apocrypha
+- JK's Windhelm Outskirts
+
+- Core Impact Framework
+- Sanguine Symphony
+
+- Better Effigy of King Olaf
+- Animated Icebergs
+- Animated Ice Floes
+- Realistic Boat Bobbing
+- GKB Waves Reborn
+- Skyking Hanging Moss
+- Numinous Nord Ruins
+
+- Argonian Creation Extended
+- Khajiit Character Creation Extended
+- Eyes Nouveaux
+- CoverKhajiit
+- Terre's 4k fur textures for coevrkhajiits
+- Diverse 4thUnknown's Dragons SE
+- Reverie Skin
+- Racemenu Undress
+- Common Clothes Retexture
+- Faithful Faces
+
+# Updated
+- Skyrim AE Redone - To latest version
+- Assorted Mesh Fixes - To latest version
+- Immersive Armors Retexture - Downscaled to 2K
+- Embers XD - Upscaled to 2K
+- Water for ENB - To latest version
+- H to Horse - To latest version
+- KG Animations - To latest version
+- Orc Exiles Series - Utilising the AIO
+- Redbag's Morthal - To latest version
+- Various Xavbio retexture mods - To latest version
+- Kauz ENB - To latest version
+- Medieval Potions - Removed ENB Lights
+- Vanaheimr Landscapes - Consolidated into AIO
+- Song of the Green - To latest version + New Outfit for Auri
+- Khajiit Will Follow - To latest version + Fix for Nikhai's locket note
+- Ultimate Immersion Toggle - To latest version
+- Skyking Alchemy Ingredients - To latest version
+- Flora Additions Willows - Excluded Willows to Falkreath and Morthal
+- Selective Silent Music Options - Increased to the Coast, Daedric Exteriors, Standing Stones, and Dragon Lairs
+
+# Removed
+- Rustic Clothing - Replaced with Common Clothing Retexture
+- Enhanced Blood Textures - Replaced with Sanguine Symphony
+- Particle Lights for ENB - Ingredients - Caused issues in the inventory
+- Face Discoloration Fix - Caused some issues
+- Enhanced Death Cam - Preference change
+- Shaders of Solstheim - Replaced with Better Dynamic Ash
+- CC's Enhanced Ore Veins - Replaced with Vanaheimr Ore Veins
+- High poly Vanilla Hair - Conflicts with Vanilla Hair Remake
+ - Natural + Mystic Eyes - Replaced with Eyes Nouveaux
+- UNP Female Body Renewal - Tempered Skins for Females already redoes the body mesh
+- SC Khajiit Improvement - Replaced with Coverkhajiit
+- Embers XD Torch Edit - Too performance intensive
+- Diverse Campfires - Too performance intensive
+Custom Cubemaps - Preference Change
+Terrain Parallax Blending Fix - Replaced with Terrain Helper
