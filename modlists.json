@@ -23,7 +23,8 @@
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
       "download": "https://authored-files.wabbajack.org/USM.wabbajack_e1a52643-571b-443a-9ade-a2624fc0f6c2",
       "machineURL": "Untitled",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "Jshk4OiZjZI=",
@@ -31,7 +32,8 @@
       "NumberOfArchives": 841,
       "SizeOfArchives": 83863702996,
       "NumberOfInstalledFiles": 187015,
-      "SizeOfInstalledFiles": 99389646361
+      "SizeOfInstalledFiles": 99389646361,
+      "TotalSize": 183253349357
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -61,21 +63,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne_Installation.md",
-      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_76cedb24-4a65-4ac9-8734-98b2c3fbe39e",
+      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_6fa5f8cd-2b8d-4dc0-9259-3db1e907b3df",
       "machineURL": "Alpyne",
-      "discordURL": "https://discord.gg/xRrHRsb5e9"
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "5EtwPcNv0pQ=",
-      "Size": 85779939,
-      "NumberOfArchives": 1328,
-      "SizeOfArchives": 101238672032,
-      "NumberOfInstalledFiles": 106487,
-      "SizeOfInstalledFiles": 116105581266
+      "Hash": "CiUBTE5GqH4=",
+      "Size": 185964329,
+      "NumberOfArchives": 1423,
+      "SizeOfArchives": 108461827833,
+      "NumberOfInstalledFiles": 189544,
+      "SizeOfInstalledFiles": 130176067120,
+      "TotalSize": 238637894953
     },
-    "version": "1.4.0",
+    "version": "1.5.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-29T15:57:40.5250366Z",
+    "dateUpdated": "2025-05-31T14:00:24.825449Z",
     "repositoryName": ""
   }
 ]
