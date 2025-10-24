@@ -2,10 +2,10 @@
 Palette is the collection of modlists developed by Ferroxius for The Elder Scrolls V: Skyrim Anniversary Edition
 
 Currently available lists include:
-- Little Bit of Everything
 - Alpyne
 
 # Little Bit of Everything
+### ATTENTION: Little Bit of Everything is no longer maintained
 Little Bit of Everything (LBOE) is a modlist designed to provide a reasonable amount of gameplay improvements, visual enhancements and new content without going particularly overboard in one area
 
 Notable elements of LBOE include:
@@ -47,13 +47,13 @@ The visuals aim to be impressive and dramatic without being a major performance 
 Things not to expect of Alpyne:
 ### Visuals
 - Major settlement expansions. This is to keep performance steady
-- Major NPC Overhauls. The NPCs are kept in line with the vanilla aesthetic
+- Complete NPC makeovers. The NPCs are designed to be in keeping with Skyrim and ES aesthetics
 - Anything particularly "High-poly". Technical quality is kept to the same poly count and texture resolution of base Skyrim but utilising fixed or generally superior options
 
 ### Gameplay
 - Modern Combat Overhaul or any mods introducing new combat mechanics. I don't believe things like attack commitment suit Skyrim
 - Hardcore mods. Things like survival mode will be supported but the list is not built around mods such as Frostfall
-- New mechanics such as religions. Not my preference
+- New game changing mechanics. This is to keep the focus on improving the base game
 
 ### Content
 - Expansions to existing followers such as Serana Dialogue Addon. Don't really like mods such as those
@@ -70,5 +70,7 @@ The following have been important in one way or another to the development of my
 - Styyx
 - Chef
 - Ouroboros
+- Omni
 - Syam
 - Katiefraggle
+- And everyone else within the community who has used Alpyne and given feedback!
