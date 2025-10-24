@@ -62,10 +62,10 @@ Supporting two different platforms is a much harder ordeal and I already own Sky
 ## Pre-Installation
 **Base Requirements**
 - Skyrim Anniversary Edition + DLC Upgrade on Steam (Clean reinstall required)
-- Latest version of windows 10/11
+- Latest version of windows 10/11 OR Linux with necessary tools like Proton
 - A nexus mods account (Premium is recommended by Wabbajack to automate installation but you can use a free one)
 - Latest NVIDIA/AMD/Intel Drivers
-- 180GB of storage space available in total approximately. Some extra headroom is recommended for Wabbajack so I would recommend at least 200GB
+- 200GB of storage space available in total approximately. Some extra headroom is recommended for Wabbajack so I would recommend at least 200GB
 
 **MO2 Requirements**
 - [Latest Microsoft Visual C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
