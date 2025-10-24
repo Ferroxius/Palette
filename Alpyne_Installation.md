@@ -28,6 +28,8 @@ As for my own system specifications they are as follows:
 - GPU               - Sapphire PULSE rx6700xt 12GB VRAM
 - PSU               - Be Quiet Pure Power 850W
 
+The list will run on Windows 10/11 or Linux. If you plan on running the list off of Linux, please see [Omni's guide](https://github.com/Omni-guides/Jackify) for help. The above system requirements should indicate that this list isn't designed to run on the Steam Deck or any similar handheld pcs. 
+
 On my pc an average of 60fps at 1080p is expected with some potential dips in more crowded locations and forests
 
 
@@ -48,8 +50,8 @@ I am open to suggestions but if you do wish to make one then keep in mind the ab
 ### Can I add/remove mods?
 You're welcome to do so and can also use this list as a baseline to build off of if you wish. Keep in mind however that you will need to be responsible for things like Conflict Resolution as my help will be limited
 
-### Widescreen & Linux Support?
-I don't personally own a widescreen monitor so I am unable to test and properly support widescreen. Same goes for Linux and by extention Steam Deck/Ally support. 
+### Widescreen Support?
+I don't personally own a widescreen monitor so I am unable to test and properly support widescreen. 
 
 Community support may help in this matter however
 
@@ -103,6 +105,8 @@ Open up Mod Organizer 2. Everything should be installed and generally shouldnt r
 
 To start the game select Alpyne in the top right drop down menu and click Run. Skyrim should launch not too long afterwards
 - NOTE: Alpyne is not built on the latest version of Mod Organizer 2. The program has the option to update in the menu but it is not recommended to do this as the list could be broken after updating.
+
+Also, please DO NOT click "Unlock" when launching the game. This will break the game severely.
 
 ## Playing and MCM configuration
 When you start a new game you will be presented with an option to skip the intro. This is Optional Quick Start. If you choose No the vanilla intro sequence will play out as normal, if you choose Yes you will spawn at the exit to Helgen Keep and will continue from there. Note that the vanilla intro will always be a bit janky so play through it at your own risk of it breaking.
