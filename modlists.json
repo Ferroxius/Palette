@@ -63,24 +63,25 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne_Installation.md",
-      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_9b827e17-8d4b-4625-ae01-9b9c103d7ad3",
+      "download": "https://authored-files.wabbajack.org/Alpyne.wabbajack_0ef0f535-313d-4ca9-969b-18aa5d40d8d3",
       "machineURL": "Alpyne",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "e52SyJwNXgE=",
-      "Size": 1111244202,
-      "NumberOfArchives": 1436,
-      "SizeOfArchives": 109153780398,
-      "NumberOfInstalledFiles": 152365,
-      "SizeOfInstalledFiles": 125545581541,
-      "TotalSize": 234699361939
+      "Hash": "AAiI3O4rCCI=",
+      "Size": 1302407952,
+      "NumberOfArchives": 1440,
+      "SizeOfArchives": 91343954045,
+      "NumberOfInstalledFiles": 138565,
+      "SizeOfInstalledFiles": 112488665423,
+      "TotalSize": 203832619468
     },
-    "version": "1.5.1",
+    "version": "1.6.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-06-13T16:42:43.847415Z",
     "repositoryName": ""
   }
 ]
+
 
