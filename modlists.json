@@ -17,7 +17,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Untitled.png",
       "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
