@@ -110,7 +110,6 @@ Also, please DO NOT click "Unlock" when launching the game. This will break the 
 
 ## Playing and MCM configuration
 When you start a new game you will be presented with an option to skip the intro. This is Optional Quick Start. If you choose No the vanilla intro sequence will play out as normal, if you choose Yes you will spawn at the exit to Helgen Keep and will continue from there. Note that the vanilla intro will always be a bit janky so play through it at your own risk of it breaking.
-- If you choose to skip the intro, a chest can be found after exiting Helgen cave that gives you a number of scrolls to use as a starting "class". Choose one, multiple or none if you wish and use it to acquire some items and buffs
 
 In Mod Configuration there are a few available to use. The list doesn't currently follow any specific settings so configure the mods however you wish
 
