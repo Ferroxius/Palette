@@ -27,14 +27,13 @@ The visuals aim to be impressive and dramatic without being a major performance 
 - Texture overhaul series from various authors such as AgentW and Clemus
 - NAT 3 Weathers and Kauz ENB
 - Environmental additions courtesy of mods such as Unmarked Locations and Northern Scenery
-- Happy Little Trees and Veydosebrom covering most flora
+- Happy Little Trees and a combination of Witchy Wilderness and Wildlands Renewal covering most flora
 - Major city overhauls. Each hold capital and minor settlement has a unique identity in its architecture
 
 ### Gameplay
-- Utilisation of Skyrim Redone for reworked vanilla systems
+- Utilisation of Skyrim AE Redone for reworked vanilla systems
 - Complementary mods such as mortal enemies
 - Skyrim Realistic Conquering to facilitate world feedback to the player
-- Some restrictions on movement to encourage utilisation of mechanics such as horses
 
 ### Content
 - Expanded questlines courtesy of Jayserpa's series
@@ -51,12 +50,12 @@ Things not to expect of Alpyne:
 - Anything particularly "High-poly". Technical quality is kept to the same poly count and texture resolution of base Skyrim but utilising fixed or generally superior options
 
 ### Gameplay
-- Modern Combat Overhaul or any mods introducing new combat mechanics. I don't believe things like attack commitment suit Skyrim
-- Hardcore mods. Things like survival mode will be supported but the list is not built around mods such as Frostfall
-- New game changing mechanics. This is to keep the focus on improving the base game
+- Modern Combat Overhaul or any mods introducing new mechanics.
+- Hardcore mods. This includes Survival Mode which is disabled by default.
+- New game changing mechanics such as Skyclimb
 
 ### Content
-- Expansions to existing followers such as Serana Dialogue Addon. Don't really like mods such as those
+- Expansions to existing followers such as Serana Dialogue Addon.
 - No new Worldspaces. This is to expand on the strength and quality of the Skyrim worldspace rather than branch outwards
 - Anything explicit or overtly NSFW. Implication is present in some mods but otherwise, there is no nudity or explicit sexual encounters
 
